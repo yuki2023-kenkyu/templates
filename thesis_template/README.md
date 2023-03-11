@@ -7,4 +7,5 @@ thesis_templateはOverleafで公開されていた熊本大学の論文テンプ
 卒業論文の利用時には「\senior」のコメント文をはずしオプションを有効化してください．
 
 Overleaaf版は以下のURLからアクセスできます．
+
 https://www.overleaf.com/read/bydsfshhyzfw
