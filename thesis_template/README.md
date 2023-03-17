@@ -6,6 +6,10 @@ thesis_templateはOverleafで公開されていた熊本大学の論文テンプ
 
 卒業論文の利用時には「\senior」のコメント文をはずしオプションを有効化してください．
 
-Overleaaf版は以下のURLからアクセスできます．
+また，「\usepackage{physics}」により，数式を $\LaTeX$ で簡単に記述できるようにしています．
+
+physicsの使い方に関する記事は[こちら](https://qiita.com/HelloRusk/items/ce9f49e9b3fc0344ae23)
+
+Overleaaf版論文テンプレートは以下のURLからアクセスできます．
 
 https://www.overleaf.com/read/bydsfshhyzfw
